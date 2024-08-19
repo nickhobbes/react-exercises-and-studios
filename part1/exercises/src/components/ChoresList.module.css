@@ -1,7 +1,17 @@
 .choresText {
-   color: black;
+   color: purple;
+   font-style: italic;
+   text-align: left;
+   font-size: 1.0vw;
+   font-family: Cambria;
+
 }
 
 .choresHeading {
-   color: black;
+   color: purple;
+   text-decoration: underline;
+   text-align: left;
+   font-size: 1.3vw;
+   font-family: Cambria;
+
 }
